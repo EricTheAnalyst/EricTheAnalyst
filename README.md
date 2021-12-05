@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricTheAnalyst
 - 👀 I’m interested in figuring things out
-- 🌱 I’m currently learning SQL for data analytics, R program, python,
+- 🌱 I’m currently learning SQL for data analytics, R program, python, for viz (Tableau)
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me email
 
